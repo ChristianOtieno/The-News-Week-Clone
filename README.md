@@ -31,7 +31,7 @@ You can find the original project specification [here](https://www.theodinprojec
 - [] Pass CSS stylelint test.
 - [] Check html with W3C validator.
 - [] Validate Readme file with markdown lint.
-- [] Create Fixed Header Nav Bar
+- [x] Create Fixed Header Nav Bar
 - [] Toggle Nav on Scroll Down
 - [] Create Main Article Section (right , left ) sides
 - [] Create Latest News Section.
