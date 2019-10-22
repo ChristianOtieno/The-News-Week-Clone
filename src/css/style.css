@@ -167,7 +167,7 @@ body {
     background-color: #fff;
 }
 
-.section-title {
+.block-title {
     color: #03030366;
     font-weight: bold;
     font-size: 16px;
@@ -190,13 +190,13 @@ img {
     width: 100%;
 }
 
-.pic-on {
+.red-text {
     display: block;
-    font: bold 17px/16px "Roboto", sans-serif;
     color: #f72210;
-    padding: 8px 15px 9px;
-    background-color: rgba(255, 255, 255, .9);
     position: absolute;
+    padding: 8px 15px 9px;
+    font: bold 17px/16px "Roboto", sans-serif;
+    background-color: rgba(255, 255, 255, 0.8);
     bottom: 0;
     left: 0;
     z-index: 1;
@@ -272,4 +272,18 @@ h3 {
 .latest-news h6 {
     color: #000;
     font-weight: 600;
+}
+
+.culture-and-travel {
+    display: grid;
+    /* height: 100px; */
+    background-color: #f4f5f7;
+    margin-bottom: 20px;
+}
+
+.culture-stories {
+    display: grid;
+    height: 50%;
+    background-color: #f4f5f7;
+    margin-bottom: 20px;
 }
