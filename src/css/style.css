@@ -1,3 +1,158 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
+body {
+    background-color: #f4f5f6;
+    color: #333;
+    font-size: 13px;
+    line-height: 18px;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+
+.content {
+    max-width: 1310px;
+    margin: auto;
+    background-color: #fff;
+    padding: 30px;
+}
+
+
+/*navigation*/
+
+
+/*navigation top*/
+
+#navscroll {
+    position: relative;
+    margin: auto;
+    background-color: #f72210;
+    color: #fff;
+    padding: 50px 0px 10px 0px;
+    max-width: 1310px;
+    transition: all 0.1s;
+}
+
+#navbottom {
+    position: relative;
+    top: 95px;
+    max-width: 1310px;
+    margin: auto;
+}
+
+.logoimg {
+    position: absolute;
+    width: 396px;
+    height: 60px;
+    transform: translate(-50%, 0);
+    top: 15px;
+    left: 50%;
+}
+
+.logoimg>img {
+    width: 100%;
+}
+
+.datenav {
+    position: relative;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+#signin {
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    bottom: 10px;
+}
+
+#signin a {
+    text-decoration: none;
+    color: #f72210;
+    background-color: #fff;
+    padding: 8px;
+}
+
+.fa-chevron-right {
+    padding-right: 10px;
+    padding-left: 10px;
+    z-index: 9999;
+}
+
+#signin span {
+    padding-right: 10px;
+}
+
+.fa-bars {
+    position: absolute;
+    top: 0;
+    right: -10px;
+    width: 16px;
+    padding: 10px;
+    color: #f72210;
+    z-index: 9999;
+}
+
+
+/*navigation bottom*/
+
+.header-bottom {
+    color: #000;
+    height: 50px;
+    padding: 10px 0px;
+    background-color: #fff;
+    border-bottom: 1px solid #d9d9d9;
+    position: relative;
+}
+
+.header-bottom::before {
+    width: 66px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: "";
+    display: block;
+    background-color: #f72210;
+    border-left: 12px solid #fff;
+    border-top: 13px solid #f72210;
+}
+
+.page-nav {
+    display: flex;
+    font-size: 21px;
+    line-height: 24px;
+    font-weight: 700;
+    list-style: none;
+    margin: 0px;
+    padding: 0px 54px 0px 0px;
+}
+
+.page-nav li {
+    flex-grow: 1;
+    text-align: center;
+    border-left: 1px solid #d9d9d9;
+}
+
+.page-nav>li>a {
+    cursor: pointer;
+}
+
+.page-nav>li>a:hover {
+    color: #f72210 !important;
+}
+
+.page-nav :first-child,
+.page-nav :last-child {
+    border-width: 0px;
+}
+
+#search {
+    color: #0000008c;
+    cursor: text;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fa-search {
+    padding-left: 10px;
+    font-weight: 400;
 }
