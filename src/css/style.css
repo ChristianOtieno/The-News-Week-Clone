@@ -293,12 +293,28 @@ h3 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    grid-template-areas: "culture-and-travel-item1 culture-and-travel-item2" "culture-and-travel-item3  culture-and-travel-item4";
+    grid-template-areas: "culture-and-travel-item1 culture-and-travel-item2" "culture-and-travel-item3  culture-and-travel-item2";
 }
 
 .culture-and-travel-content>* {
     margin: 0;
     padding: 0;
+}
+
+.culture-and-travel-item1 {
+    margin-right: 15px;
+}
+
+.culture-and-travel-item2 {
+    margin-right: 15px;
+}
+
+.culture-and-travel-item3 {
+    margin-left: 15px;
+}
+
+.culture-and-travel-item4 {
+    margin-left: 15px;
 }
 
 .culture-item {
