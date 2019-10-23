@@ -376,10 +376,11 @@ h3 {
 }
 
 .icon {
+    position: relative;
     display: block;
     width: 29px;
     height: 28px;
-    background: url(/src/assets/) center/contain no-repeat #f72210;
+    background: url(/src/assets/more-stories/newsweek_square_logo.jpg) center/contain no-repeat #f72210;
     margin-right: 10px;
 }
 
@@ -450,4 +451,40 @@ h3 {
 .image-article7 {
     background-image: url(/src/assets/in-the-magazine/flying-high.jpg);
     height: 17vw;
+}
+
+.category {
+    font: bold 16px/26px "Roboto", sans-serif;
+    color: #f72210;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.magazine-article .category span:first-of-type {
+    background-color: #f72210;
+    margin-right: 7px;
+    padding: 3px 7px;
+    color: #fff;
+}
+
+.cat>a {
+    color: #f72210;
+}
+
+.article-title {
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+}
+
+.flying-high {
+    position: absolute;
+    bottom: 0;
+    padding: 3px 7px;
+    background-color: #f72210;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
 }
