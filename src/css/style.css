@@ -165,6 +165,11 @@ body {
 .main-content {
     padding-top: 100px;
     background-color: #fff;
+    margin: 0 10.5%;
+}
+
+header {
+    margin: 0 10.5%;
 }
 
 .block-title {
@@ -277,6 +282,7 @@ h3 {
 .culture-and-travel {
     background-color: #f4f5f7;
     margin: 0;
+    height: 850px;
 }
 
 .culture-and-travel>* {
@@ -311,4 +317,56 @@ h3 {
     color: #272727;
     background-color: #c2d4d7;
     font-weight: 300;
+}
+
+.block {
+    position: relative;
+    width: 300px;
+    height: 163px;
+    border: 1px solid #e5e5e5;
+    background-color: #f4f5f6;
+    padding: 20px;
+    margin: 0px 20px;
+    margin-bottom: 10px;
+}
+
+.block>* {
+    margin: 10px;
+}
+
+.update {
+    margin-top: 20px;
+    color: #333;
+    font: bold 15px/15px "Roboto", sans-serif;
+}
+
+.icon-n {
+    position: relative;
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: url(/src/assets/more-stories/newsweek_square_logo.jpg) center/contain no-repeat #f72210;
+    margin-right: 10px;
+}
+
+.signup {
+    text-decoration: none;
+    color: #fff;
+    width: 101px;
+    padding: 10px 5px 10px 12px;
+    font: bold 18px/18px "Roboto", sans-serif;
+    margin-top: 0;
+    background-color: #666;
+}
+
+.update {
+    margin-top: 20px;
+    color: #333;
+    font: bold 15px/15px "Roboto", sans-serif;
+}
+
+.block-text {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
