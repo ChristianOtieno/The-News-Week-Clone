@@ -275,15 +275,40 @@ h3 {
 }
 
 .culture-and-travel {
-    display: grid;
-    /* height: 100px; */
     background-color: #f4f5f7;
-    margin-bottom: 20px;
+    margin: 0;
 }
 
-.culture-stories {
+.culture-and-travel>* {
+    margin: 0;
+}
+
+.culture-and-travel-content {
     display: grid;
-    height: 50%;
-    background-color: #f4f5f7;
-    margin-bottom: 20px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: "culture-and-travel-item1 culture-and-travel-item2" "culture-and-travel-item3  culture-and-travel-item4";
+}
+
+.culture-and-travel-content>* {
+    margin: 0;
+    padding: 0;
+}
+
+.culture-item {
+    height: 400px
+}
+
+.culture-item .card-body {
+    padding: 15px 10px 20px;
+}
+
+.culture-item .badge {
+    font-size: 13px;
+}
+
+.culture-item .badge a {
+    color: #272727;
+    background-color: #c2d4d7;
+    font-weight: 300;
 }
