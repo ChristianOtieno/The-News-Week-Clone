@@ -370,3 +370,84 @@ h3 {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.second {
+    margin-top: 30px;
+}
+
+.icon {
+    display: block;
+    width: 29px;
+    height: 28px;
+    background: url(/src/assets/) center/contain no-repeat #f72210;
+    margin-right: 10px;
+}
+
+.gray {
+    background-color: #f4f5f6;
+    color: #000;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 10px 10px 10px 12px;
+    font: bold 18px/18px "Roboto", sans-serif;
+}
+
+.gray::after {
+    content: "";
+    display: inline-block;
+    width: 8px;
+    height: 14px;
+    margin-left: 10px;
+    background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-arrow-right-black.svg) center/contain no-repeat;
+}
+
+.part-title {
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    padding-top: 5px;
+}
+
+.title-border {
+    border-bottom: 1px solid #d9d9d9;
+    margin: 20px auto;
+}
+
+.image-article {
+    position: relative;
+    background-color: #000;
+    background-position: center;
+    background-size: cover;
+    height: 15vw;
+    overflow: hidden;
+}
+
+.image-article1 {
+    background-image: url(/src/assets/in-the-magazine/fe-pence-1013892928-banner.jpg);
+}
+
+.image-article2 {
+    background-image: url(/src/assets/in-the-magazine/fe-recession-banner-526940218.jpg);
+}
+
+.image-article3 {
+    background-image: url(/src/assets/in-the-magazine/mattis-marshall-02.jpg);
+}
+
+.image-article4 {
+    background-image: url(/src/assets/in-the-magazine/per-usiran-02-1169778690.jpg);
+}
+
+.image-article5 {
+    background-image: url(/src/assets/in-the-magazine/cul-moreno-parks-01-banner.jpg);
+}
+
+.image-article6 {
+    background-image: url(/src/assets/in-the-magazine/cul-ps-morrison-banner.jpg);
+}
+
+.image-article7 {
+    background-image: url(/src/assets/in-the-magazine/flying-high.jpg);
+    height: 17vw;
+}
