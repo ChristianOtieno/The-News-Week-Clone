@@ -623,16 +623,12 @@ h3 {
     padding-bottom: 30px;
 }
 
-.fr-footer .brand svg {
-    display: block;
-    width: 236px;
-    height: 36px;
-    margin-right: 15px;
-    margin-bottom: 12px;
-    fill: #f72210;
+.footer-top {
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
-.fr-footer .copyright {
+.copyright {
     font-size: 12px;
     line-height: 12px;
     color: #666;
@@ -640,21 +636,23 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.fr-footer ul {
-    list-style-type: none;
+.media-icons {
+    text-align: right;
 }
 
-.fr-footer ul li:first-child {
-    margin-left: 0px;
+.media-icons>i {
+    vertical-align: bottom;
+    font-size: 25px;
+    color: #666;
+    padding-left: 7px;
 }
 
-.fr-footer ul li {
-    margin-left: 10px;
-}
-
-.fr-footer .socials {
-    margin-bottom: 12px;
-    height: 24px;
+.logo-footer>img {
+    width: 236px;
+    height: 36px;
+    fill: #f72210;
+    margin-bottom: 2%;
+    margin-left: 1%;
 }
 
 .footer-links,
