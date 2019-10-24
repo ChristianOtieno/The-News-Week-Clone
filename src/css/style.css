@@ -97,6 +97,12 @@ img {
     color: #666;
 }
 
+.culture-item .badge a {
+    color: #272727;
+    background-color: #c2d4d7;
+    font-weight: 300;
+}
+
 .page-nav > li > a:hover {
     color: #f72210 !important;
 }
@@ -168,12 +174,6 @@ img {
     list-style: none;
     margin: 0;
     padding: 0 54px 0 0;
-}
-
-.culture-item .badge a {
-    color: #272727;
-    background-color: #c2d4d7;
-    font-weight: 300;
 }
 
 .page-nav li {
@@ -655,8 +655,8 @@ h3 {
     cursor: pointer;
 }
 
-.footer-links .footer-links-menu ul,
-.footer-links-edition ul {
+.footer-links .footer-links-edition ul,
+.footer-links-menu ul {
     list-style-type: none;
     display: block;
 }
