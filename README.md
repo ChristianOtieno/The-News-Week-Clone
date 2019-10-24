@@ -1,3 +1,6 @@
+[![Developer](https://img.shields.io/badge/Developer-Christian%20Otieno-brightgreen)](https://www.linkedin.com/in/christianotieno/)
+
+
 # Using Bootstrap - (The News Week Website clone)
 
 ## [Solo Project]
@@ -24,24 +27,24 @@ You can find the original project specification [here](https://www.theodinprojec
 ## Work Done
 
 - [x] Project Tools SetUp with (Gulp , Gulp Sass , browser-sync)
-- [] Lay out the basic structure of the page using empty semantic HTML elements that are appropriately sized and positioned.
-- [] Use Semantic HTML.
-- [] Use Flex or grid in the project.
-- [] Fill in and position the additional sections.
-- [] Pass CSS stylelint test.
-- [] Check html with W3C validator.
-- [] Validate Readme file with markdown lint.
+- [x] Lay out the basic structure of the page using empty semantic HTML elements that are appropriately sized and positioned.
+- [x] Use Semantic HTML.
+- [x] Use Flex or grid in the project.
+- [x] Fill in and position the additional sections.
+- [x] Pass CSS stylelint test.
+- [x] Check html with W3C validator.
+- [x] Validate Readme file with markdown lint.
 - [x] Create Fixed Header Nav Bar
-- [] Toggle Nav on Scroll Down
-- [] Create Main Article Section (right , left ) sides
-- [] Create Latest News Section.
-- [] Create CULTURE & TRAVEL Section.
-- [] Create IN THE MAGAZINE Section.
-- [] Create EDITOR'S PICK Section.
-- [] Create FEATURED SLIDESHOWS Section.
-- [] Create Article Div
-- [] Create SUBSCRIBE Section
-- [] Crete footer div
+- [x] Toggle Nav on Scroll Down
+- [x] Create Main Article Section (right , left ) sides
+- [x] Create Latest News Section.
+- [x] Create CULTURE & TRAVEL Section.
+- [x] Create IN THE MAGAZINE Section.
+- [x] Create EDITOR'S PICK Section.
+- [x] Create FEATURED SLIDESHOWS Section.
+- [x] Create Article Div
+- [x] Create SUBSCRIBE Section
+- [x] Crete footer div
 
 ## How to Install and use
 
