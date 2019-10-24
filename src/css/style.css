@@ -32,6 +32,11 @@ body {
     margin: auto;
 }
 
+img {
+    position: relative;
+    width: 100%;
+}
+
 .logoimg {
     position: absolute;
     width: 396px;
@@ -59,6 +64,47 @@ body {
     bottom: 10px;
 }
 
+.cat > a {
+    color: #f72210;
+}
+
+.subs-info a {
+    background-color: #f72210;
+    display: inline-block;
+    padding: 10px 12px;
+    color: white;
+    font: bold 18px/18px "Roboto Condensed", sans-serif;
+}
+
+.nletter-info a {
+    padding: 10px 12px;
+    color: white;
+    font: bold 18px/18px "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    background-color: #f72210;
+}
+
+.page-nav > li > a {
+    cursor: pointer;
+}
+
+.footer-links,
+.footer-links-edition ul li a {
+    padding-top: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 15px;
+    color: #666;
+}
+
+.page-nav > li > a:hover {
+    color: #f72210 !important;
+}
+
+.culture-item .badge {
+    font-size: 13px;
+}
+
 #signin a {
     text-decoration: none;
     color: #f72210;
@@ -70,6 +116,13 @@ body {
     padding-right: 10px;
     padding-left: 10px;
     z-index: 9999;
+}
+
+.magazine-article .category span:first-of-type {
+    background-color: #f72210;
+    margin-right: 7px;
+    padding: 3px 7px;
+    color: #fff;
 }
 
 #signin span {
@@ -117,18 +170,16 @@ body {
     padding: 0 54px 0 0;
 }
 
+.culture-item .badge a {
+    color: #272727;
+    background-color: #c2d4d7;
+    font-weight: 300;
+}
+
 .page-nav li {
     flex-grow: 1;
     text-align: center;
     border-left: 1px solid #d9d9d9;
-}
-
-.page-nav > li > a {
-    cursor: pointer;
-}
-
-.page-nav > li > a:hover {
-    color: #f72210 !important;
 }
 
 .page-nav :first-child,
@@ -175,11 +226,6 @@ article {
 .wrap {
     position: relative;
     min-height: 33px;
-}
-
-img {
-    position: relative;
-    width: 100%;
 }
 
 .red-text {
@@ -310,16 +356,6 @@ h3 {
 
 .culture-item .card-body {
     padding: 15px 10px 20px;
-}
-
-.culture-item .badge {
-    font-size: 13px;
-}
-
-.culture-item .badge a {
-    color: #272727;
-    background-color: #c2d4d7;
-    font-weight: 300;
 }
 
 .block {
@@ -458,17 +494,6 @@ h3 {
     margin-bottom: 10px;
 }
 
-.magazine-article .category span:first-of-type {
-    background-color: #f72210;
-    margin-right: 7px;
-    padding: 3px 7px;
-    color: #fff;
-}
-
-.cat > a {
-    color: #f72210;
-}
-
 .article-title {
     font-size: 20px;
     color: #000;
@@ -563,14 +588,6 @@ h3 {
     font-size: 16px;
 }
 
-.subs-info a {
-    background-color: #f72210;
-    display: inline-block;
-    padding: 10px 12px;
-    color: white;
-    font: bold 18px/18px "Roboto Condensed", sans-serif;
-}
-
 .nletter-block {
     width: 100%;
     flex: 1;
@@ -593,14 +610,6 @@ h3 {
     font-weight: bold;
     font-family: "Roboto Condensed", sans-serif;
     color: #333;
-}
-
-.nletter-info a {
-    padding: 10px 12px;
-    color: white;
-    font: bold 18px/18px "Roboto Condensed", sans-serif;
-    text-transform: uppercase;
-    background-color: #f72210;
 }
 
 .footer-content {
@@ -640,23 +649,13 @@ h3 {
     margin-left: 1%;
 }
 
-.footer-links,
-.footer-links-edition ul li a {
-    padding-top: 6px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    line-height: 15px;
-    color: #666;
+.footer-links ul li {
+    display: inline-block;
+    margin: 6px 0;
+    cursor: pointer;
 }
 
 .footer-links .footer-links-menu ul,
 .footer-links-edition ul {
     list-style-type: none;
     display: block;
-}
-
-.footer-links ul li {
-    display: inline-block;
-    margin: 6px 0;
-    cursor: pointer;
-}
