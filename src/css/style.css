@@ -41,7 +41,7 @@ body {
     left: 50%;
 }
 
-.logoimg>img {
+.logoimg > img {
     width: 100%;
 }
 
@@ -114,7 +114,7 @@ body {
     font-weight: 700;
     list-style: none;
     margin: 0;
-    padding: 0 54px 0px 0;
+    padding: 0 54px 0 0;
 }
 
 .page-nav li {
@@ -123,11 +123,11 @@ body {
     border-left: 1px solid #d9d9d9;
 }
 
-.page-nav>li>a {
+.page-nav > li > a {
     cursor: pointer;
 }
 
-.page-nav>li>a:hover {
+.page-nav > li > a:hover {
     color: #f72210 !important;
 }
 
@@ -207,7 +207,7 @@ h3 {
 }
 
 .related {
-    padding: 10px 0px;
+    padding: 10px 0;
     border-top: 1px solid #d9d9d9;
     border-bottom: 1px solid #d9d9d9;
     font-size: 17px;
@@ -230,8 +230,8 @@ h3 {
 }
 
 .byline {
-    color: #555555;
-    padding: 0px;
+    color: #555;
+    padding: 0;
     margin: 5px 0;
 }
 
@@ -272,7 +272,7 @@ h3 {
     height: 850px;
 }
 
-.culture-and-travel>* {
+.culture-and-travel > * {
     margin: 0;
 }
 
@@ -283,7 +283,7 @@ h3 {
     grid-template-areas: "culture-and-travel-item1 culture-and-travel-item2" "culture-and-travel-item3  culture-and-travel-item2";
 }
 
-.culture-and-travel-content>* {
+.culture-and-travel-content > * {
     margin: 0;
     padding: 0;
 }
@@ -305,7 +305,7 @@ h3 {
 }
 
 .culture-item {
-    height: 400px
+    height: 400px;
 }
 
 .culture-item .card-body {
@@ -333,7 +333,7 @@ h3 {
     margin-bottom: 10px;
 }
 
-.block>* {
+.block > * {
     margin: 10px;
 }
 
@@ -471,7 +471,7 @@ h3 {
     color: #fff;
 }
 
-.cat>a {
+.cat > a {
     color: #f72210;
 }
 
@@ -638,7 +638,7 @@ h3 {
     padding-left: 7px;
 }
 
-.logo-footer>img {
+.logo-footer > img {
     width: 236px;
     height: 36px;
     fill: #f72210;
