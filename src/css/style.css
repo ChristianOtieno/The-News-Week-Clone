@@ -342,6 +342,7 @@ h3 {
     color: #333;
     font: bold 15px/15px "Roboto", sans-serif;
 }
+
 .icon-n {
     position: relative;
     display: block;
@@ -360,8 +361,6 @@ h3 {
     margin-top: 0;
     background-color: #666;
 }
-
-
 
 .block-text {
     font-size: 18px;
