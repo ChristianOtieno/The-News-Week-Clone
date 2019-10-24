@@ -1,0 +1,38 @@
+@media screen and (max-width: 991px) {
+    .logoimg {
+        width: 132px;
+        height: 20px;
+        left: 100px;
+        top: 10px;
+    }
+    .fa-bars {
+        color: #fff;
+    }
+    #navscroll {
+        padding: 3px 0px;
+    }
+    .datenav {
+        display: none;
+    }
+    #signin {
+        font-size: 14px;
+        bottom: 0px;
+    }
+    #signin a {
+        padding: 6px;
+    }
+    .fa-chevron-right {
+        display: none !important;
+    }
+    /*nav bottom*/
+    .header-bottom {
+        display: none;
+    }
+    /*main*/
+    #right-col {
+        margin: auto;
+    }
+    .content {
+        padding-top: 40px;
+    }
+}
