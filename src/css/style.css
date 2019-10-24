@@ -342,7 +342,6 @@ h3 {
     color: #333;
     font: bold 15px/15px "Roboto", sans-serif;
 }
-
 .icon-n {
     position: relative;
     display: block;
@@ -362,11 +361,7 @@ h3 {
     background-color: #666;
 }
 
-.update {
-    margin-top: 20px;
-    color: #333;
-    font: bold 15px/15px "Roboto", sans-serif;
-}
+
 
 .block-text {
     font-size: 18px;
@@ -631,7 +626,7 @@ h3 {
     text-align: right;
 }
 
-.media-icons>i {
+.media-icons > i {
     vertical-align: bottom;
     font-size: 25px;
     color: #666;

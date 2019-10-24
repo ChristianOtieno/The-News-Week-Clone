@@ -5,31 +5,40 @@
         left: 100px;
         top: 10px;
     }
+
     .fa-bars {
         color: #fff;
     }
+
     #navscroll {
         padding: 3px 0;
     }
+
     .datenav {
         display: none;
     }
+
     #signin {
         font-size: 14px;
         bottom: 0;
     }
+
     #signin a {
         padding: 6px;
     }
+
     .fa-chevron-right {
         display: none !important;
     }
+
     .header-bottom {
         display: none;
     }
+
     #right-col {
         margin: auto;
     }
+    
     .content {
         padding-top: 40px;
     }
