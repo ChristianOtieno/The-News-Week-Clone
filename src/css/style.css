@@ -504,3 +504,21 @@ h3 {
     font-weight: 700;
     text-transform: uppercase;
 }
+
+.other-news {
+    border-top: 1px solid #d9d9d9;
+    color: #f72210;
+    padding-top: 25px;
+    font-size: 22px;
+    line-height: 22px;
+}
+
+.aside-other-news {
+    padding: 10px 0px;
+    border-top: 1px solid #d9d9d9;
+}
+
+.top-aside {
+    border: none;
+    padding: 0px 0px 10px;
+}
