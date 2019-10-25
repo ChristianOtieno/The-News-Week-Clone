@@ -5,10 +5,9 @@ body {
     line-height: 18px;
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
-    margin: 0 auto;
 }
 
-.content {
+.main-content {
     max-width: 1310px;
     margin: auto;
     background-color: #fff;
@@ -203,11 +202,7 @@ img {
 .main-content {
     padding-top: 100px;
     background-color: #fff;
-    margin: 0 10.5%;
-}
-
-header {
-    margin: 0 10.5%;
+    margin: 0 auto
 }
 
 .block-title {
@@ -273,6 +268,11 @@ h3 {
     font-weight: 700;
     margin-bottom: 5px;
     margin-left: -10px;
+}
+
+.headshot {
+	height: 63px;
+	max-width: 63px;
 }
 
 .byline {
