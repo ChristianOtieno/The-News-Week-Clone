@@ -48,8 +48,8 @@ You can find the original project specification [here](https://www.theodinprojec
 
 ## How to Install and use
 
-<!-- - clone the repository `git clone https://github.com/ChristianOtieno/apple-home-page-clone.git`
-- open command prompt in `apple-home-page-clone` folder
-- run the application using open live server functionality. -->
+- clone the repository `git clone https://github.com/ChristianOtieno/The-News-Week-Clone.git`
+- open command prompt in `The-News-Week-Clone` folder
+- run the application using open live server functionality.
 
-<!-- LInk to live demo [here](https://christianotieno.github.io/apple-home-page-clone/.) -->
+LInk to live demo [here](https://christianotieno.github.io/The-News-Week-Clone/.)
