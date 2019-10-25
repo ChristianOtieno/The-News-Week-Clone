@@ -4,11 +4,11 @@
 		justify-content: space-between;
 		background: #f72210;
 	}
-
+	
 	.logoimg {
 		width: 132px;
 		height: 20px;
-        left: 100px;
+		left: 100px;
 		top: 10px;
 	}
 	
@@ -17,14 +17,14 @@
 	}
 	
 	#navscroll {
-        padding: 3px 0;
+		padding: 3px 0;
 		margin-right: 2%;
 	}
 	
 	#datenav {
 		display: none;
 	}
-
+	
 	#signin {
 		font-size: 14px;
 		bottom: 0px;
@@ -33,20 +33,20 @@
 	#signin a {
 		padding: 6px;
 	}
-
+	
 	.fa-chevron-right {
 		display: none !important;
 	}
-
+	
 	.header-bottom {
 		display: none;
 	}
-
+	
 	#right-col {
 		margin: auto;
-    }
-
-    .content {
+	}
+	
+	.content {
 		padding-top: 40px;
-    }
+	}
 }
