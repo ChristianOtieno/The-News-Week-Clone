@@ -1,0 +1,17 @@
+@media (max-width: 767px) {
+    #image {
+        width: 258px;
+    }
+
+    .image-article {
+        height: 52vw;
+    }
+
+    .image-article7 {
+        height: 52vw;
+    }
+
+    .media-icons {
+        text-align: left;
+    }
+}
