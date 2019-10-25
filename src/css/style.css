@@ -659,3 +659,8 @@ h3 {
     list-style-type: none;
     display: block;
 }
+
+.footer-links-edition label {
+    margin-top: 6px;
+    margin-right: 15px;
+}
