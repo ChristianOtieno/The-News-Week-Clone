@@ -1,9 +1,9 @@
 @media screen and (max-width: 991px) {
-    .fixed-top{
-        display: flex;
-        justify-content: space-between;
-        background: #f72210;
-    }
+    .fixed-top {
+		display: flex;
+		justify-content: space-between;
+		background: #f72210;
+	}
 
 	.logoimg {
 		width: 132px;
@@ -11,16 +11,16 @@
         left: 100px;
 		top: 10px;
 	}
-
+	
 	.fa-bars {
-        color: #fff;
+		color: #fff;
 	}
-
+	
 	#navscroll {
         padding: 3px 0;
-        margin-right: 2%;
+		margin-right: 2%;
 	}
-
+	
 	#datenav {
 		display: none;
 	}
@@ -29,7 +29,7 @@
 		font-size: 14px;
 		bottom: 0px;
 	}
-
+	
 	#signin a {
 		padding: 6px;
 	}
