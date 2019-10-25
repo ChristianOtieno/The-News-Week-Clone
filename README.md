@@ -1,9 +1,8 @@
-[![Developer](https://img.shields.io/badge/Developer-Christian%20Otieno-brightgreen)](https://www.linkedin.com/in/christianotieno/)
-
-
 # Using Bootstrap - (The News Week Website clone)
 
 ## [Solo Project]
+
+[![Developer](https://img.shields.io/badge/Developer-Christian%20Otieno-brightgreen)](https://www.linkedin.com/in/christianotieno/)
 
 This project consists of building a replica of the news site [newsweek.com](https://www.newsweek.com/) using the Bootstrap framework.
 
