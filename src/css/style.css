@@ -11,7 +11,7 @@ body {
     max-width: 1310px;
     margin: auto;
     background-color: #fff;
-    padding: 30px;
+    padding-top: 100px;
 }
 
 #navscroll {
@@ -197,12 +197,6 @@ img {
 .fa-search {
     padding-left: 10px;
     font-weight: 400;
-}
-
-.main-content {
-    padding-top: 100px;
-    background-color: #fff;
-    margin: 0 auto;
 }
 
 .block-title {
