@@ -6,9 +6,17 @@ This project consists of building a replica of the news site [newsweek.com](http
 
 You can find the original project specification [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
 
+|Cloned Page Screenshot|
+|:---:|
+|![Screeenshot](./src/assets/README/screenshot.png "Optional Title")|
+
 ## Authors
 
-[![Developer](https://img.shields.io/badge/Developer-Christian%20Otieno-brightgreen)](https://www.linkedin.com/in/christianotieno/)
+[![Developer](https://img.shields.io/badge/Developer-Christian%20Otieno-brightgreen)](https://www.github.com/christianotieno/)
+
+- Github: [@christianotieno](https://github.com/christianotieno)
+- Twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
+- Linkedin: [Christian Otieno](https://www.linkedin.com/in/christianotieno/)
 
 ## Tools Used
 
