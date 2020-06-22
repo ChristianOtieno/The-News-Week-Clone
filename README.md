@@ -1,22 +1,12 @@
-# Using Bootstrap - (The News Week Website clone)
+# Using Bootstrap ~ A clone of the Newsweek website
 
-## [Solo Project]
+## This is a solo project that consists of building a replica of the news site [newsweek.com](https://www.newsweek.com/) using the Bootstrap framework
 
-This project consists of building a replica of the news site [newsweek.com](https://www.newsweek.com/) using the Bootstrap framework.
+### You can find the original project specification [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
 
-You can find the original project specification [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
-
-|Cloned Page Screenshot|
+|The cloned page screenshot|
 |:---:|
-|![Screeenshot](./src/assets/README/screenshot.png "Optional Title")|
-
-## Authors
-
-[![Developer](https://img.shields.io/badge/Developer-Christian%20Otieno-brightgreen)](https://www.github.com/christianotieno/)
-
-- Github: [@christianotieno](https://github.com/christianotieno)
-- Twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
-- Linkedin: [Christian Otieno](https://www.linkedin.com/in/christianotieno/)
+|![Screeenshot](./src/assets/README/screenshot.png "Cloned Newsweek page screenshot")|
 
 ## Tools Used
 
@@ -57,4 +47,12 @@ You can find the original project specification [here](https://www.theodinprojec
 - open command prompt in `The-News-Week-Clone` folder
 - run the application using open live server functionality.
 
-LInk to live demo [here](https://christianotieno.github.io/The-News-Week-Clone/.)
+Link to live demo [here](https://christianotieno.github.io/The-News-Week-Clone/.)
+
+## Author's social links
+
+[![Developer](https://img.shields.io/badge/Developer-Christian%20Otieno-brightgreen)](https://www.github.com/christianotieno/)
+
+- Github: [@christianotieno](https://github.com/christianotieno)
+- Twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
+- Linkedin: [Christian Otieno](https://www.linkedin.com/in/christianotieno/)
